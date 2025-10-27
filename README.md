@@ -56,7 +56,7 @@ Frontend Developer | Web Enthusiast
 
 ## 📸 Preview
 
-_Add a screenshot or demo link here if available._
+Link of Website: https://synapti-q.vercel.app/
 
 ---
 
